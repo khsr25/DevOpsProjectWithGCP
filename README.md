@@ -116,7 +116,8 @@ You will now try running this image from a Compute Engine virtual machine.
 7) Navigate to the Compute Engine service.
 8) Click Create Instance to create a VM.
 9) On the Create an instance page, specify the following, and leave the remaining settings as their defaults:
-<img width="438" alt="image" src="https://github.com/khsr25/DevOpsProjectWithGCP/assets/82759985/5cbedb42-bfdf-42fb-a7da-ca7298a69caf">
+![image](https://github.com/khsr25/DevOpsProjectWithGCP/assets/102398532/401607d1-9ff5-4c58-8dfd-3cd3518cbece)
+
 
 10) Click Create.
 11) Once the VM starts, create a browser tab and make a request to this new VM's external IP address. The program should work as before.
