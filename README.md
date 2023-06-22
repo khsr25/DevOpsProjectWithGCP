@@ -2,7 +2,8 @@
 
 In this project, you will build a continuous integration pipeline using Cloud Source Repositories, Cloud Build, build triggers, and Container Registry.
 
-![0hYrmLCtV96fbLY7rct7Ue94xgf6OUG+O930FbxOeuA=](https://github.com/khsr25/DevOpsProjectWithGCP/assets/82759985/c1dcc6c3-abb7-4925-8a71-b00b60ddbf80)
+![image](https://github.com/khsr25/DevOpsProjectWithGCP/assets/102398532/a999aa98-9b38-4e84-b148-fbd4916e11b6)
+
 
 **Prerequisites**
 
